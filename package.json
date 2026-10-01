@@ -1,0 +1,17 @@
+{
+  "name": "pr3_web4",
+  "version": "1.0.0",
+  "description": "Цей проєкт демонструє використання TypeScript для побудови типізованої архітектури репозиторіїв та Data Transfer Objects (DTO) на прикладі системи управління рестораном і доставкою їжі.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
